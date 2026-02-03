@@ -25,7 +25,7 @@ for n in range(1,1000000):
     max_num = n
 
 end = perf_counter()
-print(max_num, max_collatz) # 837799 525
+print(max_num, max_collatz) 
 print(end - start,'sec')
 
 # 0.421462 sec with pypy
