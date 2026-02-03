@@ -71,4 +71,3 @@ for every number below $N/2$ (where $N$ is the starting limit, $1000000$ in this
 is a counterpart above $N/2$ that is larger at least by 1. So for some algorithms this can
 save time by searching only above $N/2$.
 
-
