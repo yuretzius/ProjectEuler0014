@@ -1,7 +1,7 @@
 # ProjectEuler0014
 My work on
 
-problem #14 of projecteuler.net:
+[problem #14 of projecteuler.net](https://projecteuler.net/problem=14):
 
 Longest Collatz Sequence
 
