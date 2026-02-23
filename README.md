@@ -3,7 +3,7 @@ My work on
 
 [problem #14 of projecteuler.net](https://projecteuler.net/problem=14):
 
-Longest Collatz Sequence
+### Longest Collatz Sequence
 
 The following iterative sequence is defined for the set of positive integers:
 
@@ -21,12 +21,10 @@ Which starting number, under one million, produces the longest chain?
 
 **NOTE:** Once the chain starts the terms are allowed to go above one million.
 
-Completed on Wed, 24 Feb 2021, 22:29
+*Completed on Wed, 24 Feb 2021, 22:29*
 
-#######################################################################################
-Please note: Project Euler's policy allows publication of solutions for the first 100 problems,
-that's why I am sharing my work here for reference and educational purposes.
-#######################################################################################
+> [!NOTE]
+> Project Euler's policy allows publication of solutions for the first 100 problems, that's why I am sharing my work here for reference and educational purposes.
 
 The Python solution here is just a brute force, running the sequences and checking their length.
 Since it is just basic loops and conditionals, running the code with pypy improves the speed
